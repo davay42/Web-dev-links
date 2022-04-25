@@ -1,5 +1,8 @@
 # svg
 
+- https://habr.com/ru/post/662335/ SVG text editor
+- https://habr.com/ru/post/658109/ PNG diagrams
+
 ## Icons
     
 [https://www.svgrepo.com/](https://www.svgrepo.com/)
